@@ -14,6 +14,6 @@
         <li>a <code>getter</code>
     </ul>
     <li> Every Util must have a <code>private constructor</code>
-    <li> Every <code>private method</code> in a Util must be at the bottom of the class (5 lines breaks)
+    <li> Every <code>private method</code> in a Util must be at the bottom of the class (5 lines breaks to separate them)
     <li> Every Util must have <code>javadoc</code> for every <code>public method</code>
 </ul>
